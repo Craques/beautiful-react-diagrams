@@ -31,7 +31,7 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+
 
 # Dependency directories
 node_modules/
@@ -231,4 +231,3 @@ GitHub.sublime-settings
 
 package-lock.json
 
-dist/
